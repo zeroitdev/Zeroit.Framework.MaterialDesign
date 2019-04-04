@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f86d9ded-dc1d-452a-beab-d107ff21f77a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Zeroit.Framework.MaterialDesign/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.Zeroit.Framework.MaterialDesign/riderModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Animations/AnimationDirection.cs" afterPath="$PROJECT_DIR$/Animations/AnimationDirection.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Animations/AnimationManager.cs" afterPath="$PROJECT_DIR$/Animations/AnimationManager.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Animations/Animations.cs" afterPath="$PROJECT_DIR$/Animations/Animations.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ColorScheme.cs" afterPath="$PROJECT_DIR$/ColorScheme.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialCheckBox.cs" afterPath="$PROJECT_DIR$/Controls/MaterialCheckBox.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialContextMenuStrip.cs" afterPath="$PROJECT_DIR$/Controls/MaterialContextMenuStrip.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialDivider.cs" afterPath="$PROJECT_DIR$/Controls/MaterialDivider.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialFlatButton.cs" afterPath="$PROJECT_DIR$/Controls/MaterialFlatButton.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialForm.cs" afterPath="$PROJECT_DIR$/Controls/MaterialForm.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialLabel.cs" afterPath="$PROJECT_DIR$/Controls/MaterialLabel.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialListView.cs" afterPath="$PROJECT_DIR$/Controls/MaterialListView.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialProgressBar.cs" afterPath="$PROJECT_DIR$/Controls/MaterialProgressBar.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialRadioButton.cs" afterPath="$PROJECT_DIR$/Controls/MaterialRadioButton.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialRaisedButton.cs" afterPath="$PROJECT_DIR$/Controls/MaterialRaisedButton.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialSingleLineTextField.cs" afterPath="$PROJECT_DIR$/Controls/MaterialSingleLineTextField.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialTabControl.cs" afterPath="$PROJECT_DIR$/Controls/MaterialTabControl.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controls/MaterialTabSelector.cs" afterPath="$PROJECT_DIR$/Controls/MaterialTabSelector.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DrawHelper.cs" afterPath="$PROJECT_DIR$/DrawHelper.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IMaterialControl.cs" afterPath="$PROJECT_DIR$/IMaterialControl.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MaterialSkinManager.cs" afterPath="$PROJECT_DIR$/MaterialSkinManager.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" />
-    </list>
+    <list default="true" id="f86d9ded-dc1d-452a-beab-d107ff21f77a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -673,12 +650,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554369861284</updated>
-      <workItem from="1554369862514" duration="449000" />
+      <workItem from="1554369862514" duration="544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="449000" />
+    <option name="totallyTimeSpent" value="544000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
