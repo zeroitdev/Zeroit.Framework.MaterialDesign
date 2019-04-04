@@ -20,3 +20,4 @@ C:\Users\ZEROIT\Documents\Visual Studio 2017\Projects\GithubControls\Zeroit.Fram
 C:\Users\ZEROIT\Documents\Visual Studio 2017\Projects\GithubControls\Zeroit.Framework.MaterialDesign\obj\Debug\Zeroit.Framework.MaterialDesign.csproj.GenerateResource.Cache
 C:\Users\ZEROIT\Documents\Visual Studio 2017\Projects\GithubControls\Zeroit.Framework.MaterialDesign\obj\Debug\Zeroit.Framework.MaterialDesign.dll
 C:\Users\ZEROIT\Documents\Visual Studio 2017\Projects\GithubControls\Zeroit.Framework.MaterialDesign\obj\Debug\Zeroit.Framework.MaterialDesign.pdb
+C:\Users\ZEROIT\Documents\Visual Studio 2017\Projects\GithubControls\Zeroit.Framework.MaterialDesign\obj\Debug\Zeroit.Framework.MaterialDesign.csprojResolveAssemblyReference.cache
