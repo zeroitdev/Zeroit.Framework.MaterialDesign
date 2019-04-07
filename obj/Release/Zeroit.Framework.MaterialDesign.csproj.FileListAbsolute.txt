@@ -1,6 +1,0 @@
-C:\Users\ZEROIT\Documents\Visual Studio 2013\Projects\ZeroitControls\Zeroit.Framework.MaterialDesign\bin\Release\Zeroit.Framework.MaterialDesign.dll
-C:\Users\ZEROIT\Documents\Visual Studio 2013\Projects\ZeroitControls\Zeroit.Framework.MaterialDesign\bin\Release\Zeroit.Framework.MaterialDesign.pdb
-C:\Users\ZEROIT\Documents\Visual Studio 2013\Projects\ZeroitControls\Zeroit.Framework.MaterialDesign\obj\Release\Zeroit.Framework.MaterialDesign.Properties.Resources.resources
-C:\Users\ZEROIT\Documents\Visual Studio 2013\Projects\ZeroitControls\Zeroit.Framework.MaterialDesign\obj\Release\Zeroit.Framework.MaterialDesign.csproj.GenerateResource.Cache
-C:\Users\ZEROIT\Documents\Visual Studio 2013\Projects\ZeroitControls\Zeroit.Framework.MaterialDesign\obj\Release\Zeroit.Framework.MaterialDesign.dll
-C:\Users\ZEROIT\Documents\Visual Studio 2013\Projects\ZeroitControls\Zeroit.Framework.MaterialDesign\obj\Release\Zeroit.Framework.MaterialDesign.pdb

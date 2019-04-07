@@ -1,7 +1,0 @@
-C:\Users\ZEROIT\Downloads\ZENX 6\Winforms\Project Downloads\Additional Controls 2\Plugins\MaterialSkin-master\MaterialSkin\bin\Debug\MaterialSkin.dll
-C:\Users\ZEROIT\Downloads\ZENX 6\Winforms\Project Downloads\Additional Controls 2\Plugins\MaterialSkin-master\MaterialSkin\bin\Debug\MaterialSkin.pdb
-C:\Users\ZEROIT\Downloads\ZENX 6\Winforms\Project Downloads\Additional Controls 2\Plugins\MaterialSkin-master\MaterialSkin\obj\Debug\MaterialSkin.csprojResolveAssemblyReference.cache
-C:\Users\ZEROIT\Downloads\ZENX 6\Winforms\Project Downloads\Additional Controls 2\Plugins\MaterialSkin-master\MaterialSkin\obj\Debug\MaterialSkin.Properties.Resources.resources
-C:\Users\ZEROIT\Downloads\ZENX 6\Winforms\Project Downloads\Additional Controls 2\Plugins\MaterialSkin-master\MaterialSkin\obj\Debug\MaterialSkin.csproj.GenerateResource.Cache
-C:\Users\ZEROIT\Downloads\ZENX 6\Winforms\Project Downloads\Additional Controls 2\Plugins\MaterialSkin-master\MaterialSkin\obj\Debug\MaterialSkin.dll
-C:\Users\ZEROIT\Downloads\ZENX 6\Winforms\Project Downloads\Additional Controls 2\Plugins\MaterialSkin-master\MaterialSkin\obj\Debug\MaterialSkin.pdb
